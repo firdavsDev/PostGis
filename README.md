@@ -1,4 +1,4 @@
-# maps_with_django
+# PostGis
 
 ## Creating web app with Python, Django and PostgreSQL database
 
